@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/kowriki/static/css/main.964476d2.chunk.css",
-    "main.js": "/kowriki/static/js/main.3a7b476f.chunk.js",
-    "main.js.map": "/kowriki/static/js/main.3a7b476f.chunk.js.map",
+    "main.css": "/kowriki/static/css/main.931eb23d.chunk.css",
+    "main.js": "/kowriki/static/js/main.a7b854ff.chunk.js",
+    "main.js.map": "/kowriki/static/js/main.a7b854ff.chunk.js.map",
     "runtime-main.js": "/kowriki/static/js/runtime-main.fc89872b.js",
     "runtime-main.js.map": "/kowriki/static/js/runtime-main.fc89872b.js.map",
     "static/css/2.de424728.chunk.css": "/kowriki/static/css/2.de424728.chunk.css",
-    "static/js/2.c4ea0c28.chunk.js": "/kowriki/static/js/2.c4ea0c28.chunk.js",
-    "static/js/2.c4ea0c28.chunk.js.map": "/kowriki/static/js/2.c4ea0c28.chunk.js.map",
+    "static/js/2.3ac37020.chunk.js": "/kowriki/static/js/2.3ac37020.chunk.js",
+    "static/js/2.3ac37020.chunk.js.map": "/kowriki/static/js/2.3ac37020.chunk.js.map",
     "index.html": "/kowriki/index.html",
-    "precache-manifest.c203900d52cefb838999128308258114.js": "/kowriki/precache-manifest.c203900d52cefb838999128308258114.js",
+    "precache-manifest.e756fbf551fc8c5a1dd18074e4ef4a7e.js": "/kowriki/precache-manifest.e756fbf551fc8c5a1dd18074e4ef4a7e.js",
     "service-worker.js": "/kowriki/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/kowriki/static/css/2.de424728.chunk.css.map",
-    "static/css/main.964476d2.chunk.css.map": "/kowriki/static/css/main.964476d2.chunk.css.map",
-    "static/js/2.c4ea0c28.chunk.js.LICENSE.txt": "/kowriki/static/js/2.c4ea0c28.chunk.js.LICENSE.txt",
+    "static/css/main.931eb23d.chunk.css.map": "/kowriki/static/css/main.931eb23d.chunk.css.map",
+    "static/js/2.3ac37020.chunk.js.LICENSE.txt": "/kowriki/static/js/2.3ac37020.chunk.js.LICENSE.txt",
     "static/media/eva 1.svg": "/kowriki/static/media/eva 1.fa8b2b6d.svg",
     "static/media/good.svg": "/kowriki/static/media/good.baf4ba2b.svg",
     "static/media/header-img2.png": "/kowriki/static/media/header-img2.bd9d7048.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.fc89872b.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.c4ea0c28.chunk.js",
-    "static/css/main.964476d2.chunk.css",
-    "static/js/main.3a7b476f.chunk.js"
+    "static/js/2.3ac37020.chunk.js",
+    "static/css/main.931eb23d.chunk.css",
+    "static/js/main.a7b854ff.chunk.js"
   ]
 }

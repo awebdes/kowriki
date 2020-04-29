@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b523564a015e30602472e9a6e88bc557",
+    "revision": "0063284fc289c24647a1db9f7fb82755",
     "url": "/kowriki/index.html"
   },
   {
-    "revision": "a823e995033486ecfc4a",
+    "revision": "bf92e308c9730f2759cd",
     "url": "/kowriki/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "54b474f44d8cae510249",
-    "url": "/kowriki/static/css/main.964476d2.chunk.css"
+    "revision": "11a8fe9697cb29dc20c5",
+    "url": "/kowriki/static/css/main.931eb23d.chunk.css"
   },
   {
-    "revision": "a823e995033486ecfc4a",
-    "url": "/kowriki/static/js/2.c4ea0c28.chunk.js"
+    "revision": "bf92e308c9730f2759cd",
+    "url": "/kowriki/static/js/2.3ac37020.chunk.js"
   },
   {
-    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/kowriki/static/js/2.c4ea0c28.chunk.js.LICENSE.txt"
+    "revision": "d7186be027e5346a0a2588e7f8b6f9a4",
+    "url": "/kowriki/static/js/2.3ac37020.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54b474f44d8cae510249",
-    "url": "/kowriki/static/js/main.3a7b476f.chunk.js"
+    "revision": "11a8fe9697cb29dc20c5",
+    "url": "/kowriki/static/js/main.a7b854ff.chunk.js"
   },
   {
     "revision": "c0245be78f42a72b5710",
